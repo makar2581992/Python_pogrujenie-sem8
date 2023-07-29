@@ -1,0 +1,38 @@
+{
+    "1": {
+        "name": "Task2.cpython-311.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": "3767 b"
+    },
+    "2": {
+        "name": "main.py",
+        "parent": "Homework8",
+        "type": "file",
+        "size": "315 b"
+    },
+    "3": {
+        "name": "Task1.py",
+        "parent": "Homework8",
+        "type": "file",
+        "size": "2158 b"
+    },
+    "4": {
+        "name": "Task2.py",
+        "parent": "Homework8",
+        "type": "file",
+        "size": "1530 b"
+    },
+    "5": {
+        "name": "__pycache__",
+        "parent": "Homework8",
+        "type": "folder",
+        "size": "4096 b"
+    },
+    "6": {
+        "name": "workspace.xml",
+        "parent": ".idea",
+        "type": "file",
+        "size": "1854 b"
+    }
+}
